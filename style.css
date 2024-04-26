@@ -2,6 +2,7 @@
   text-align: center;
   color: orange;
   border-bottom: 2px dashed black;
+  font-weight: semibold;
 }
 
 #markrober {
@@ -13,3 +14,5 @@
   color: rgb(200, 200, 200);
   opacity: 40%;
   text-align: right;
+  font-size: 7px;
+}
