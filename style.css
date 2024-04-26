@@ -6,9 +6,9 @@
 }
 
 #markrober {
-  color: rgb(0,153,128);
-  border-left: 4px ridge darkred;
-  font-weight: semibold;
+  color: rgb(124, 10, 2);
+  border-left: 4px ridge maroon;
+  padding-left: 3px;
 }
   
 #footer {
