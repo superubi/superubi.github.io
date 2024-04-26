@@ -7,7 +7,7 @@
 
 #markrober {
   color: rgb(0,153,128);
-  border-left: 5px inset darkblue;
+  border-left: 4px ridge darkred;
   font-weight: semibold;
 }
   
@@ -15,5 +15,5 @@
   color: rgb(200, 200, 200);
   opacity: 40%;
   text-align: right;
-  font-size: 7px;
+  font-size: 15px;
 }
